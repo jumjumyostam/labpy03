@@ -8,15 +8,20 @@ Sebelum memulai membuatnya, silahkan buka aplikasi Sublime terlebih dahulu, karn
 
 Jika sudah, silahkan tekan ctrl+s . Dan simpan file tersebut dengan berakhiran ".py" , contoh:
 ![step2](https://user-images.githubusercontent.com/47550007/52996991-c72b2680-3451-11e9-9fad-9b1654bc78c2.png)
+```
 ".py" adalah program python.
+```
 
 # Langkah Kedua
 Untuk line 1 silahkan ketik sesuai apa yang ada dibawah ini,
 ![step3](https://user-images.githubusercontent.com/47550007/52997049-fcd00f80-3451-11e9-9e02-314c12055247.png)
+
 Dan, untuk line 2 sampai line 9, silahkan ketik sesuai apa yang ada dibawah ini, ingat perhatikan setiap penempatan titik, dan koma.
 ![step4](https://user-images.githubusercontent.com/47550007/52997078-11140c80-3452-11e9-83d3-ed7c3d692fcf.png)
+
 Berikut penjelasannya:
 
+```
 print ('Masukkan nilai N: 5')
 import random
 jumlah = 5
@@ -32,6 +37,7 @@ print ('selesai')
 "random" : untuk menentukan suatu pilihan. 
 "range"  : merupakan fungsi yang menghasilkan list. Fungsi ini akan menciptakan sebuah list baru dengan rentang nilai tertentu. 
 "uniform": digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
+```
 
 # Langkah Ketiga 
 Jika sudah, dan sama seperti apa yang ada di "Step 2" silahkan save program kalian. Dan jalankan program tersebut melalui command prompt.
